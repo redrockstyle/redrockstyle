@@ -1,1 +1,1 @@
-LGBTQWERTY++
+LGBT++
