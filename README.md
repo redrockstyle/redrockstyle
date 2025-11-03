@@ -30,5 +30,5 @@
 
 ---
 
-<h5 align="center"> This profile features both experimental projects 🚀 and custom-built tools 🛠️ used during testing. </h5>
-<h5 align="center"> 🤝 I'm open to any collaboration opportunities! </h5>
+<h4 align="center"> This profile features both experimental projects 🚀 and custom-built tools 🛠️ used during testing. </h4>
+<h4 align="center"> 🤝 I'm open to any collaboration opportunities! </h4>
