@@ -3,7 +3,6 @@
           I don’t restrict myself to only that — I explore adjacent security domains and occasionally
           build something simply because it's fun. ☺️✨ </h4>
 
----
 <div align="center">
 <table >
   <tr>
@@ -22,16 +21,14 @@
     <td>
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=redrockstyle&hide=css,scss,html&hide_progress=true&langs_count=8&theme=transparent"
-          width="500px"
+          width="350px"
         />
       </td>
   </tr>
 </table>
 </div>
 
-
 ---
 
-This profile features both experimental projects 🚀 and custom-built tools 🛠️ used during testing.
-
-🤝 Feel free to reach out if you're interested in collaboration or have any questions!
+<h5 align="center"> This profile features both experimental projects 🚀 and custom-built tools 🛠️ used during testing. </h5>
+<h5 align="center"> 🤝 I'm open to any collaboration opportunities! </h5>
