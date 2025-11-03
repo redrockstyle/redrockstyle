@@ -1,20 +1,37 @@
-👋 **Hello!** I am a cybersecurity specialist primarily focused on penetration testing.
-🔍💻 However, I strive not to limit myself and therefore engage in various related areas of security. 🌐✨
+<h1 align="center"> 👋 Hello!👋 </h1>
+<h4 align="center"> 💻 My core specialty is <b>Penetration Testing</b> & <b>Offensive Security Engineering</b>.
+          I don’t restrict myself to only that — I explore adjacent security domains and occasionally
+          build something simply because it's fun. ☺️✨ </h4>
 
-My journey into security began a long time ago with attempts to hack small games during my high school years.
-🎮 At that time, I often lacked professionalism, but many of my friends from that period were quite satisfied! 😄
+---
+<div align="center">
+<table >
+  <tr>
+    <td valign="top">
+      <h3>🛡️ Skills</h3>
+      <ul>
+        <li>WEB Penetration Testing 🌐</li>
+        <li>Android Application Testing 📱</li>
+        <li>Internal Infrastructure Testing 🏢</li>
+        <li>Active Directory Testing 🔑</li>
+        <li>Reverse Engineering 🔧</li>
+        <li>Systems Programming 🗿</li>
+        <li>OSINT 🔍</li>
+      </ul>
+    </td>
+    <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=redrockstyle&hide=css,scss,html&hide_progress=true&langs_count=8&theme=transparent"
+          width="500px"
+        />
+      </td>
+  </tr>
+</table>
+</div>
 
-🔍 **Penetration Testing Skills:**
-* WEB Penetration Testing 🌐
-* Android Application Testing 📱
-* Internal Infrastructure Testing 🏢
-* Active Directory Testing 🔑
 
-💻 **Coding Skills:**
-* C/C++ ⚙️
-* Golang 🐹
-* Python 🐍
+---
 
-This profile features both experimental projects 🚀 and custom-built tools 🛠️ that I use during my testing. 
+This profile features both experimental projects 🚀 and custom-built tools 🛠️ used during testing.
 
 🤝 Feel free to reach out if you're interested in collaboration or have any questions!
