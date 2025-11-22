@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hello!👋 </h1>
 <h4 align="center"> 💻 My core specialty is <b>Penetration Testing</b> & <b>Offensive Security Engineering</b>.
-          I don’t restrict myself to only that — I explore adjacent security domains and occasionally
+          I don’t restrict myself to only that - I explore adjacent security domains and occasionally
           build something simply because it's fun. ☺️✨ </h4>
 
 <div align="center">
@@ -11,8 +11,7 @@
       <ul>
         <li>WEB Penetration Testing 🌐</li>
         <li>Android Application Testing 📱</li>
-        <li>Internal Infrastructure Testing 🏢</li>
-        <li>Active Directory Testing 🔑</li>
+        <li>Internal Infrastructure (AD) Testing 🏢</li>
         <li>Reverse Engineering 🔧</li>
         <li>Systems Programming 🗿</li>
         <li>OSINT 🔍</li>
