@@ -9,8 +9,6 @@
     <a href="https://t.me/khzsec"><img height="25" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 
----
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redrockstyle&hide=css,scss,html,JavaScript,Jupyter%20Notebook&hide_progress=true&langs_count=6&theme=transparent" width="380px" />
 
 <h3>🛡️ Skills</h3>
@@ -21,8 +19,6 @@
 <li>Systems Programming 🗿</li>
 <li>OSINT 🔍</li>
 </ul>
-
----
 
 <p align="center">
     This profile features both experimental projects and custom-built tools used during testing. <br>
