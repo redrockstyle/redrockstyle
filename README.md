@@ -11,7 +11,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redrockstyle&hide=css,scss,html,JavaScript,Jupyter%20Notebook&hide_progress=true&langs_count=6&theme=transparent" />
 
-<h4>🛡️ Skills</h4>
 <ul>
 <li>WEB Penetration Testing 🌐</li>
 <li>Internal Infrastructure Testing 🏢</li>
