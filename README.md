@@ -15,6 +15,7 @@
 
 <p align="left">
     :shipit: Pentester | Offensive Security Engineer
+    <br>🪛 Android Application Tester
     <br>🔧 Reverse Engineer
     <br>🔨 Systems Programmer
     <br>🔍 OSINT
